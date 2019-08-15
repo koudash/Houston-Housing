@@ -32,3 +32,12 @@
   <li>Further refine questions</li>
   <li>Explore data</li>
   <li>Create figures showing relation of housing prices to each</li></ul></p>
+
+# Final-Insights
+
+<p><ul>
+  <li>House square footage matters to the price you'll pay; but the lot has little effect.</li>
+  <li>Flooding has some effect on the price; but requires more research.</li>
+  <li>The more you pay, the more likely you are to have non-violent crime happening in your area. Violent crime rates stay about the same.</li>
+  <li>The more restaurants in an area, the more the average cost.</li>
+  <li>And lastly, downtown Houston is expensive.</li></ul></p>
